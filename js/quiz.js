@@ -36,7 +36,7 @@
     }
   
     function showResults(){
-      
+  
       // gather answer containers from our quiz
       const answerContainers = quizContainer.querySelectorAll('.answers');
   
