@@ -1,0 +1,37 @@
+
+.icon-bar {
+    position: fixed;
+    top: 60%;
+    right: 0%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    border-radius: 100%;
+    z-index: 10000;
+    box-shadow: 0px 0px 2px 2px #0000006d;
+    border-radius: 100px 0% 0% 100px;
+
+  }
+  .formmod{
+    position: fixed;
+    top: 43%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+  .icon-bar a {
+    display: block;
+    text-align: center;
+    padding: 40px 20px 40px 20px;
+    transition: all 0.3s ease;
+    background-color: rgb(255, 255, 255);
+    font-size: 20px;
+    border-radius: 100px 0% 0% 100px;
+
+  }
+  
+  .icon-bar a:hover {
+    background-color: rgb(201, 201, 201);
+  }
+
+  
